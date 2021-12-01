@@ -1,4 +1,4 @@
-# Template: Standard Robot Framework
+# Robocorp: Certificate level II: Build a robot
 
 Want to get started using [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) this is the simplest template to start from.
 
